@@ -1,4 +1,4 @@
-# PHP web application on a LAMP Stack on Bluemix
+# PHP web application on a LAMP Stack using IBM Bluemix
 This solution walks you through how to deploy an Apache web server, MySQL, and PHP (the LAMP stack) on a virtual server using Ubuntu image. To see the LAMP server in action, you can optionally install and configure a WordPress site. 
 
 Steps: 4 | 15 minutes
